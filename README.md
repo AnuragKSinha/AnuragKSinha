@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my System Design and DSA Skills [website]!
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about DSA
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw
 
 ### Connect with me:
@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-
+[<img align="left" alt="Java" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />]
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnuragKSinha&show_icons=true&hide_border=true" />
+<img align="left" alt="anuragksinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnuragKSinha&show_icons=true&hide_border=true" />
 
 [website]: https://anuragksinha.github.io
 [twitter]: https://twitter.com/sinhaanurag8
