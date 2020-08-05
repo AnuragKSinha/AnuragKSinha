@@ -1,7 +1,7 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Anurag Sinha 👋
 
-## I'm a Developer and Teacher!
-- 🔭 I’m currently working on my System Design and DSA Skills[website]!
+## I'm an Oracle Application Developer!
+- 🔭 I’m currently working on my System Design and DSA Skills [website]!
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about DSA
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -12,7 +12,6 @@
 [<img align="left" alt="anuragksinha.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="anuragksinha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="anuragksinha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
@@ -23,7 +22,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
 <br />
 <br />
 
