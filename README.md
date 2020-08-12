@@ -1,7 +1,7 @@
 ### Hi there, I'm Anurag Sinha 👋
 
 ## I'm an Application Developer working in Oracle,Hyderabad!
-- 🔭 I’m currently working on my System Design and DSA Skills [website]!
+- 🔭 I’m currently working on my System Design and DSA Skills <!--[website]!-->
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about DSA
 - 🥅 2020 Goals: Contribute to Open Source projects
