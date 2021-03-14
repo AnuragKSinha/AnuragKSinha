@@ -1,10 +1,10 @@
 ### Hi there, I'm Anurag Sinha 👋
 
-## I'm an Application Developer working in Oracle,Hyderabad!
+## I'm an Senior Software Engineer working at PegaSystems,Bangalore !
 - 🔭 I’m currently working on my System Design and DSA Skills <!--[website]!-->
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about DSA
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw
 
 ### Connect with me:
